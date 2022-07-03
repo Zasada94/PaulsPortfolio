@@ -726,6 +726,7 @@ footer {
 
 .contact .social img {
 	float: left;
+	width: 72px;
 }
 
 .contact .social span {
@@ -733,6 +734,7 @@ footer {
 	line-height: 72px;
 	padding-left: 20px;
 	float: left;
+	color: white;
 }
 
 @media (min-width: 533px) {
